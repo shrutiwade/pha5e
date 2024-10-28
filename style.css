@@ -33,7 +33,6 @@
     }
   }
   
-  /* Hero title and subtitle styling */
   .hero-title {
     font-size: 3rem;
     font-weight: 700;
@@ -53,7 +52,6 @@
     opacity: 0.8;
   }
   
-  /* Button styling */
   .hero-btn {
     font-size: 1.2rem;
     padding: 0.7rem 1.5rem;
@@ -65,7 +63,6 @@
     background-color: #ffc107;
   }
   
-  /* Mouse movement effect */
   .hero-section::after {
     content: '';
     position: absolute;
